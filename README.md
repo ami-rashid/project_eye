@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 # Project Eye
 
 **Project Eye** is a work-in-progress computer vision project.
 
-This project aims to build cutting-edge computer vision models and tools to solve complex vision-related tasks. Stay tuned for updates as development continues!
+This project aims to build computer vision models and tools to solve complex vision-related tasks.
 
 ## Installation
 
@@ -19,7 +18,3 @@ To install the project requirements and start the server:
 cd project_eye_server
 make run
 ```
-=======
-# project_eye
-Project Eye
->>>>>>> 2f64ceb077fafc83539900b9d19cdebb3861433a
