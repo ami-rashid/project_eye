@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project Eye
 
 **Project Eye** is a work-in-progress computer vision project.
@@ -18,3 +19,7 @@ To install the project requirements and start the server:
 cd project_eye_server
 make run
 ```
+=======
+# project_eye
+Project Eye
+>>>>>>> 2f64ceb077fafc83539900b9d19cdebb3861433a
