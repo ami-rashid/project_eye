@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "cat-scanner-server"
+version = "0.1.0"
+description = "A backend project for Cat Scanner"
+authors = ["Aminoor Rashid <arashid717@gmail.com>"]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.10"
+fastapi = "^0.100.0"
+uvicorn = "^0.22.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
