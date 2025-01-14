@@ -1,0 +1,21 @@
+# Ignore .env file
+.env
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor config files
+.vscode/
+.idea/
+
+# Other potentially sensitive files
+*.env.local
+*.env.production
